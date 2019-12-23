@@ -1,0 +1,27 @@
+h1{
+    color: royalblue;
+}
+
+#greycol {
+    color: gray;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.size18 {
+    font-size: 18px;
+}
+
+.size20 {
+    font-size: 20px;
+}
+
+.backcolor {
+    background-color: yellow;
+}
+
+li:before {
+    content: "\2013";
+}
